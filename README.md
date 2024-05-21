@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasen10&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasen10" /> </p>
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **web 3**
 
 - 💬 Ask me about **web dev. MERN**
 
